@@ -1,5 +1,5 @@
 {
-  "name": "@takeshape/redux-little-router",
+  "name": "redux-little-router",
   "version": "15.2.1",
   "description": "A barebones routing solution for Redux applications.",
   "main": "lib/index.js",
