@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/takeshape/redux-little-router"
+    "url": "https://github.com/TheHaff/redux-little-router"
   },
   "keywords": [
     "redux",
@@ -50,9 +50,9 @@
   "author": "Tyler Thompson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/takeshape/redux-little-router/issues"
+    "url": "https://github.com/TheHaff/redux-little-router/issues"
   },
-  "homepage": "https://github.com/takeshape/redux-little-router#readme",
+  "homepage": "https://github.com/TheHaff/redux-little-router#readme",
   "dependencies": {
     "history": "^4.6.1",
     "lodash.assign": "^4.2.0",
@@ -111,8 +111,8 @@
     "postcss-loader": "^2.0.6",
     "postcss-reporter": "^4.0.0",
     "prettier": "^1.10.2",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-hot-loader": "^1.3.1",
     "react-redux": "^7.2.6",
     "redux": "^4.1.2",
@@ -132,8 +132,8 @@
     "webpack-stats-plugin": "^0.1.4"
   },
   "peerDependencies": {
-    "react": "^16.3.0-0 || ^17.0.0-0",
-    "react-dom": "^0.14.0 || ^15.0.0-0 || ^16.0.0-0",
+    "react": "^16.3.0-0 || ^17.0.0-0 || ^18.0.0-0",
+    "react-dom": "^17.0.0-0 || ^18.0.0-0",
     "react-redux": "^4.0.0 || ^5.0.0",
     "redux": "^3.0.0"
   },
